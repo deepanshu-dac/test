@@ -1,0 +1,11 @@
+{
+  "id": "env-1779173171634",
+  "name": "dev",
+  "variables": [
+    {
+      "key": "devKey",
+      "value": "devVal",
+      "enabled": true
+    }
+  ]
+}
