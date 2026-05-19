@@ -3,12 +3,12 @@
   "name": "My Workspace",
   "version": "1.0.0",
   "createdAt": "2026-05-19T06:48:15.363Z",
-  "updatedAt": "2026-05-19T06:48:17.989Z",
+  "updatedAt": "2026-05-19T07:20:35.787Z",
   "settings": {
     "theme": "system",
     "autoSyncEnabled": false,
     "syncIntervalMs": 60000,
-    "historySyncEnabled": false,
+    "historySyncEnabled": true,
     "maxHistoryItems": 100
   }
 }
